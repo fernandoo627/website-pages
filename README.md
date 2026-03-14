@@ -1,2 +1,2 @@
 # Portifólio
-Meus primeiros sites do meu portifólio.
+Os primeiros sites do meu portifólio.
